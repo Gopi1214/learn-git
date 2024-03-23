@@ -18,3 +18,4 @@ THis is the first commit from main branch
 
 ### developer-1
 This is for cart module just completed loading products.
+Implemented the valiations and moving further.
