@@ -18,3 +18,4 @@ THis is the first commit from main branch
 
 ### developer-2
 I have just started developing the user module
+I have completed the user module
