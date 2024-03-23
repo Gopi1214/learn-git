@@ -16,7 +16,9 @@ THis is the first commit from main branch
 * still adding more
 * now it is completed
 
-### developer-1
+### developer-2
+I have just started developing the user module
+I have completed the user module
 This is for cart module just completed loading products.
 Implemented the valiations and moving further.
-I am done writing the code.
+
